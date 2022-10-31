@@ -1,0 +1,38 @@
+h1, h2 {
+	color: #FFA500
+}
+
+.punainen {
+color: #AA0000
+}
+
+table {
+	background-color: #BBCCDD
+}
+
+.vihreä {
+background-color: #7CFC00
+}
+
+table {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	margin: 20px;
+	border: 3px solid #114499;
+}
+
+	
+td {
+border: 1px solid #000000
+}
+
+
+.sisennys {
+	paddding-left: 50px;
+}
+
+.jsharkkatyyli {
+	display: none;
+}
+
+
