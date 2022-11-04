@@ -10,6 +10,14 @@ h1, h2 {
 color: #AA0000
 }
 
+.kappaleet {
+  background-color: grey;
+  color: white;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
 body {
 padding-left: 50px;
 }
