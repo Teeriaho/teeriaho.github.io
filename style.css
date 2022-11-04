@@ -2,6 +2,10 @@ h1, h2 {
 	color: #FFA500
 }
 
+.invisible {
+	display: none;
+}
+
 .punainen {
 color: #AA0000
 }
@@ -34,5 +38,4 @@ border: 1px solid #000000
 .jsharkkatyyli {
 	display: none;
 }
-
 
