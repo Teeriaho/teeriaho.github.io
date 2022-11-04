@@ -9,13 +9,18 @@ h1, h2 {
 .punainen {
 color: #AA0000
 }
-
+<html>
+<head>
+<style>
 #myHeader {
   background-color: lightblue;
   color: black;
   padding: 40px;
   text-align: center;
 } 
+</style>
+</head>
+<body>
 
 .kappaleet {
   background-color: grey;
