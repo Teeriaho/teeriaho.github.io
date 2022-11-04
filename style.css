@@ -6,16 +6,11 @@ h1, h2 {
 	display: none;
 }
 
-.punainen {
-color: #AA0000
-}
-
-
 .kappaleet {
   background-color: #FFFFFF;
   color: #BDBDBD;
-  margin: 10px;
-  padding: 10px;
+  margin: 20px;
+  padding: 50px;
 }
 
 body {
