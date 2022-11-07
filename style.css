@@ -69,7 +69,7 @@ border: 1px solid #000000
 .main {
   margin-left: 170px; /* Same as the width of the sidenav */
   font-size: 24px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
+  padding: 0px 5px;
 }
 
 @media screen and (max-height: 450px) {
