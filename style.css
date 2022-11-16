@@ -44,7 +44,7 @@ border: 1px solid #000000
 
 .sidenav {
   height: 100%;
-  width: 100%;
+  width: 40%;
   position: fixed;
   z-index: 1;
   top: 0;
